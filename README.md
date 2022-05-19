@@ -1,2 +1,2 @@
 # TextSpeech
-Trying making Text Speech Website
+Ini masih beta, mungkin changelog kedepannya bakal disini!
